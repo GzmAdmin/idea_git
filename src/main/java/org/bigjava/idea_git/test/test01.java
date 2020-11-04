@@ -8,4 +8,7 @@ package org.bigjava.idea_git.test;
  * @version 1.0
  */
 public class test01 {
+    public static void main(String[] args) {
+
+    }
 }
